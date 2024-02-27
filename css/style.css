@@ -258,8 +258,13 @@ li.nav-item a.nav-link.after.border-effect:hover::after {
 }
 
 li.nav-item {
-  border-bottom: 2px solid transparent;
-}
+   border-bottom: 2px solid transparent;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}}
 
 .logo {
   width: 200px;
