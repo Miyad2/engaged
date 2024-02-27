@@ -449,6 +449,10 @@ section.welcome-section {
   justify-items: center;
   margin-bottom: 200px;
 }
+.topic-text.aos-init.aos-animate {
+  z-index: 1;
+  overflow: hidden;
+}
 .topic-video {
   width: 500px;
   height: auto;
