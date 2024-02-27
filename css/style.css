@@ -841,7 +841,7 @@ section.code-request-section {
   flex-wrap: nowrap;
   justify-content: space-evenly;
   align-items: center;
-  background: url(/image/code_bg.png);
+  background: URL(../image/code_bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
