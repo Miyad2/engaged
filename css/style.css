@@ -493,11 +493,11 @@ section.welcome-section {
 }
 .text-align-transform-left {
   transform: translateX(85px);
-  width: 530px;
+  width: 350px;
 }
 .text-align-transform-right {
   transform: translateX(-85px);
-  width: 530px;
+  width: 350px;
 }
 .text-align-transform-left.text-overflow {
   overflow: hidden;
